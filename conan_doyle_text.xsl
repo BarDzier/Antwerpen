@@ -63,6 +63,15 @@
         </span>
     </xsl:template>
     
+    <xsl:template match="tei:l">
+    <span>
+   <xsl:attribute name="rend">
+                <xsl:value-of select="attribute::rend" />
+            </xsl:attribute>
+    <xsl:apply-templates/>
+   <br/>
+   </span>
+    </xsl:template>
     <!-- add additional templates below, for example to transform the tei:l in <br/> empty elements, tei:hi[@rend = 'sup'] in <sup> elements, the underlined text, additions with the attribute "overwritten" etc. -->
 
     

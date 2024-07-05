@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
+         <seriesStmt><title>DH Summerschool - Antwerp 2024</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5360" lry="7115" xml:id="facs_23">
+         <graphic url="0023_023_10r.jpeg" width="5360px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZERZAHLDKFKNSKWSHGCCUHAP&amp;fileType=view" width="5360px" height="7115px"/>
+         <zone points="143,1218 5067,1218 5067,6720 143,6720" rendition="TextRegion" xml:id="facs_23_tr_1">
+            <zone points="163,1023 4980,1023 4980,1434 163,1434" rendition="Line" xml:id="facs_23_tr_1_tl_1"/>
+            <zone points="2287,1319 2874,1319 2874,1531 2287,1531" rendition="Line" xml:id="facs_23_tr_1_tl_2"/>
+            <zone points="175,1410 4799,1410 4799,1743 175,1743" rendition="Line" xml:id="facs_23_tr_1_tl_3"/>
+            <zone points="145,1658 5016,1658 5016,2070 145,2070" rendition="Line" xml:id="facs_23_tr_1_tl_4"/>
+            <zone points="182,1912 4938,1912 4938,2336 182,2336" rendition="Line" xml:id="facs_23_tr_1_tl_5"/>
+            <zone points="103,2233 1846,2233 1846,2475 103,2475" rendition="Line" xml:id="facs_23_tr_1_tl_6"/>
+            <zone points="3135,2239 3885,2239 3885,2451 3135,2451" rendition="Line" xml:id="facs_23_tr_1_tl_7"/>
+            <zone points="182,2312 4653,2312 4653,2681 182,2681" rendition="Line" xml:id="facs_23_tr_1_tl_8"/>
+            <zone points="2003,2535 2354,2535 2354,2753 2003,2753" rendition="Line" xml:id="facs_23_tr_1_tl_9"/>
+            <zone points="175,2578 4768,2578 4768,2929 175,2929" rendition="Line" xml:id="facs_23_tr_1_tl_10"/>
+            <zone points="2275,2844 2511,2844 2511,3038 2275,3038" rendition="Line" xml:id="facs_23_tr_1_tl_11"/>
+            <zone points="169,2868 4932,2868 4932,3213 169,3213" rendition="Line" xml:id="facs_23_tr_1_tl_12"/>
+            <zone points="188,3177 4932,3177 4932,3540 188,3540" rendition="Line" xml:id="facs_23_tr_1_tl_13"/>
+            <zone points="1349,3425 1894,3425 1894,3631 1349,3631" rendition="Line" xml:id="facs_23_tr_1_tl_14"/>
+            <zone points="188,3473 4889,3473 4889,3824 188,3824" rendition="Line" xml:id="facs_23_tr_1_tl_15"/>
+            <zone points="200,3758 4538,3758 4538,4133 200,4133" rendition="Line" xml:id="facs_23_tr_1_tl_16"/>
+            <zone points="206,4079 4805,4079 4805,4430 206,4430" rendition="Line" xml:id="facs_23_tr_1_tl_17"/>
+            <zone points="212,4351 4944,4351 4944,4726 212,4726" rendition="Line" xml:id="facs_23_tr_1_tl_18"/>
+            <zone points="272,4666 4623,4666 4623,5029 272,5029" rendition="Line" xml:id="facs_23_tr_1_tl_19"/>
+            <zone points="188,4932 4908,4932 4908,5349 188,5349" rendition="Line" xml:id="facs_23_tr_1_tl_20"/>
+            <zone points="2312,5210 2820,5210 2820,5434 2312,5434" rendition="Line" xml:id="facs_23_tr_1_tl_21"/>
+            <zone points="254,5240 5023,5240 5023,5616 254,5616" rendition="Line" xml:id="facs_23_tr_1_tl_22"/>
+            <zone points="254,5567 4666,5567 4666,5930 254,5930" rendition="Line" xml:id="facs_23_tr_1_tl_23"/>
+            <zone points="236,5888 3558,5888 3558,6269 236,6269" rendition="Line" xml:id="facs_23_tr_1_tl_24"/>
+            <zone points="1095,6112 5053,6112 5053,6541 1095,6541" rendition="Line" xml:id="facs_23_tr_1_tl_25"/>
+            <zone points="254,6469 4986,6469 4986,6868 254,6868" rendition="Line" xml:id="facs_23_tr_1_tl_26"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_23" n="23" xml:id="img_0023"/>
+            <ab facs="#facs_23_tr_1" type="">
+               <l facs="#facs_23_tr_1_tl_1" n="N001">followed, which showed that he had disappeared from the house.</l>
+               
+               <l facs="#facs_23_tr_1_tl_3" n="N003">An examination of his room <del>showed</del><add place="above" facs="#facs_23_tr_1_tl_2">revealed</add> that the bed had not been</l>
+               <l facs="#facs_23_tr_1_tl_4" n="N004">slept in, that a safe which stood in it was open, that a number</l>
+               <l facs="#facs_23_tr_1_tl_5" n="N005">of important papers <del>which were known t have been in it</del> <del>had</del><add place="above">were</add></l>
+               <l facs="#facs_23_tr_1_tl_8" n="N008"><del>disappeared, and</del><add place="above" facs="#facs_23_tr_1_tl_6">scattered about the room and</add> finally that there <del>was every sign</del><add place="above"> were signs</add> of a</l>
+               
+               <l facs="#facs_23_tr_1_tl_10" n="N010">murderous struggle, <del>several</del><add place="above" facs="#facs_23_tr_1_tl_9">slight</add> traces of blood being found</l>
+               
+               <l facs="#facs_23_tr_1_tl_12" n="N012">within the room, and <del>a heavy</del><add facs="#facs_23_tr_1_tl_11">an</add> oaken walking stick which</l>
+               <l facs="#facs_23_tr_1_tl_13" n="N013">also showed stains of blood upon the handle. It is known</l>
+               
+               <l facs="#facs_23_tr_1_tl_15" n="N015">that Mr. Jonas <del>Choper</del><add place="above" facs="#facs_23_tr_1_tl_14">Oldacre</add> had received a late visitor in his bed</l>
+               <l facs="#facs_23_tr_1_tl_16" n="N016">room upon that night, and the stick found has been</l>
+               <l facs="#facs_23_tr_1_tl_17" n="N017">identified as the property of this person who is a young</l>
+               <l facs="#facs_23_tr_1_tl_18" n="N018">London solicitor named John Hecor McFarlane, Junior</l>
+               <l facs="#facs_23_tr_1_tl_19" n="N019">partner of Graham and McFarlane of 426 Gresham</l>
+               <l facs="#facs_23_tr_1_tl_20" n="N020">Buildings E.C. The police believe that they have evidence</l>
+               
+               <l facs="#facs_23_tr_1_tl_22" n="N022">in their possession which <del>supply</del><add place="above" facs="#facs_23_tr_1_tl_21">Supplies</add> a very convincing motive</l>
+               <l facs="#facs_23_tr_1_tl_23" n="N023">for the crime and altogether it cannot be doubted that</l>
+               <l facs="#facs_23_tr_1_tl_24" n="N024">sensational developments will follow.</l>
+               <p>
+               <l rend="indent" facs="#facs_23_tr_1_tl_25" n="N025">Later. It is rumoured as we go to press that</l>
+               <l facs="#facs_23_tr_1_tl_26" n="N026">Mr. John Hector McFarlane has actually been arrested on</l>
+               </p>
+            </ab></div>
+      </body>
+   </text>
+</TEI>
